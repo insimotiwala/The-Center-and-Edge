@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Center and Edge.unity
+    guid: 2210db102d1ea4316bc03772fa3f042c
   m_configObjects: {}
